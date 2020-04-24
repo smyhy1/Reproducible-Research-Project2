@@ -1,8 +1,7 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Michael Galarnyk"
-date: "3/26/2017"
-output: html_document
+author: "HAOBO YUAN"
+date: "24/4/2020"
 ---
 
 ## Introduction
