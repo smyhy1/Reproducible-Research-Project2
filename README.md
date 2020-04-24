@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research Project 1"
+title: "Reproducible Research Project 2"
 author: "HAOBO YUAN"
 date: "24/4/2020"
 ---
